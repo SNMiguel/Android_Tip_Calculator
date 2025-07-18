@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-['http://i.imgur.com/link/to/your/gif/file.gif'](https://imgur.com/a/hVU0sPD) 
+[Imgur](https://imgur.com/wtKZC0U)
 
 GIF created with **ScreenToGif**
 
